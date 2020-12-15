@@ -1,0 +1,35 @@
+h1{color:red}
+/**{border:solid}*/
+
+.Header{
+    background-color: aqua;
+    display : flex;
+    justify-content: space-between;
+}
+
+.Middle{
+    background-color: burlywood;
+    display : flex;
+    justify-content: space-evenly;
+}
+
+.Footer{
+    background-color: chartreuse;
+    display : flex;
+    justify-content: flex-end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
